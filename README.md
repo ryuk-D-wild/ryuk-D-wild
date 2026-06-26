@@ -11,14 +11,6 @@
 
 ### `> Full Stack Developer · SaaS Founder · IoT Engineer · OS Builder`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+production-grade+software+from+scratch;Founder+of+Flame+AI+%E2%80%94+1%2C000%2B+clients+served;From+web+apps+to+operating+systems;AI+%7C+IoT+%7C+SaaS+%7C+Systems+Engineering)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=ryuk-D-wild&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
-&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7043--1260-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0003-7043-1260)
-&nbsp;
-[![Flame AI](https://img.shields.io/badge/🔥_Flame_AI-flameai.in-orange?style=flat-square)](https://flameai.in)
-
 </div>
 
 ---
