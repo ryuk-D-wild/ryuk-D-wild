@@ -49,7 +49,7 @@ RESEARCH    : ORCID 0009-0003-7043-1260
 
 | Metric | Value |
 |---|---|
-| 👥 Clients Served | **1,000+** |
+| 👥 Clients Served | **10+** |
 | 🛠️ Free AI Tools | **7 live tools** |
 | 💰 Pricing Range | **$100 – $10,000** custom solutions |
 | 🏭 Industries | E-commerce · Healthcare · Finance · Productivity |
@@ -122,11 +122,11 @@ RESEARCH    : ORCID 0009-0003-7043-1260
 ### 🔥 [Flame AI](https://flameai.in) — AI Automation SaaS Platform
 > `Next.js` `Node.js` `Anthropic Claude API` `REST`
 
-Production SaaS with 1,000+ users. Custom automation tier for businesses ($100–$10K) and 7 free AI productivity tools. Covers e-commerce, healthcare, and financial services automation pipelines — all built, deployed, and scaled solo.
+Production SaaS with 10+ users. Custom automation tier for businesses ($100–$10K) and 7 free AI productivity tools. Covers e-commerce, healthcare, and financial services automation pipelines — all built, deployed, and scaled solo.
 
 ---
 
-### 🩸 [Blood Group Detection System](https://blooddetection.vercel.app) — Medical IoT + ML
+### 🩸 [Blood Group Detection System]— Medical IoT + ML
 > `Python` `ESP32` `MAX30102` `Fingerprint Sensor` `TensorFlow` `React`
 
 A novel non-microscopic blood group detection approach using commodity IoT sensors. Custom ML model trained to predict blood group from bitmap cell images captured via MAX30102 sensor. Includes real-time SpO2 monitoring, heart rate tracking, admin panel, user registration, and health report generation. Runs 24/7.
